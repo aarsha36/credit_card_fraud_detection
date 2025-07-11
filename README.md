@@ -2,8 +2,6 @@
 
 A machine learning web application that detects fraudulent credit card transactions using a trained classification model. Built with Flask and HTML, this app provides a simple user interface where users can input transaction details and get real-time fraud predictions.
 
-![Background](background.png)
-
 ---
 
 ## 🚀 Features
